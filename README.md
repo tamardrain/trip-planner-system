@@ -92,8 +92,9 @@ Follow these steps to configure and run the project locally:
 3. **Start the Mock Backend (JSON Server):**
    Ensure json-server is available on your local system, then launch the database observer:
    json-server --watch db.json
+   
 
-4. **Launch the Angular Application:**
+5. **Launch the Angular Application:**
    In a separate terminal workspace, spin up the local development server:
    ng serve
    
